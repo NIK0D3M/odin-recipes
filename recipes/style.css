@@ -1,0 +1,37 @@
+.main-image {
+  max-width: 100%;
+  height: auto;
+}
+
+
+#odin {
+  font-size: 45px;
+  text-align: center;
+  background-color: rgb(203, 159, 101);
+  font-family: serif text, sans-serif;
+}
+
+
+.Quesadilla {
+  color: black;
+  font-size: 35px;
+  background-color: darkorange;
+  text-align: center;
+  font-family: serif text, sans-serif;
+}
+
+.Spaghetti {
+  color: black;
+  font-size: 35px;
+  background-color: red;
+  text-align: center;
+  font-family: serif text, sans-serif;
+}
+
+.Pierogi {
+  color: black;
+  font-size: 35px;
+  background-color: silver;
+  text-align: center;
+  font-family: serif text, sans-serif;
+}
